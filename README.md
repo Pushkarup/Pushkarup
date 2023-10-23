@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/pushkar-upadhyay-24p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pushkar-upadhyay-11494325b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pushkar-upadhyay-24p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pushkar-upadhyay-11494325b" height="30" width="40" /></a>
 <a href="mailto:thepushkar24@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="40" width="40" /></a>
 </p>
